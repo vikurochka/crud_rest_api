@@ -1,0 +1,10 @@
+.userPhoto{
+    weight: 40px;
+    height: 30px;
+}
+.mainStyle{
+    background-color: dimgrey;
+}
+.selectedPage{
+    color: brown;
+}
